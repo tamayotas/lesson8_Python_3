@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="705b806d-87d8-4652-819c-9010c2ac579c" name="Changes" comment="Создание проекта&#10;Урок 8&#10;Создание нового файла и перенос и исправление ошибок из черновика">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lesson8_Python_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="705b806d-87d8-4652-819c-9010c2ac579c" name="Changes" comment="Создание проекта&#10;Урок 8&#10;Создание нового файла и перенос и исправление ошибок из черновика&#10;.idea в гитигнор&#10;перенос папки" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,12 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705602454770</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Создание проекта&#10;Урок 8&#10;Создание нового файла и перенос и исправление ошибок из черновика&#10;.idea в гитигнор&#10;перенос папки">
+      <option name="closed" value="true" />
+      <created>1705654197236</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705654197236</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создание проекта&#10;Урок 8" />
     <MESSAGE value="Создание проекта&#10;Урок 8&#10;Создание нового файла и перенос и исправление ошибок из черновика" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание проекта&#10;Урок 8&#10;Создание нового файла и перенос и исправление ошибок из черновика" />
+    <MESSAGE value="Создание проекта&#10;Урок 8&#10;Создание нового файла и перенос и исправление ошибок из черновика&#10;.idea в гитигнор&#10;перенос папки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание проекта&#10;Урок 8&#10;Создание нового файла и перенос и исправление ошибок из черновика&#10;.idea в гитигнор&#10;перенос папки" />
   </component>
 </project>
